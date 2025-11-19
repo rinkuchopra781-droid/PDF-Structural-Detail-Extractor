@@ -1,0 +1,5 @@
+{
+  "name": "PDF Structural Detail Extractor",
+  "description": "An intelligent tool to automatically extract structural engineering details like Chainage, Type, and Size from PDF documents using AI. Upload a PDF to get started.",
+  "requestFramePermissions": []
+}
